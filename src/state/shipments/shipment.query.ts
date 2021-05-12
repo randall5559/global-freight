@@ -1,8 +1,8 @@
-import { QueryEntity } from '@datorama/akita';
+import { guid, QueryEntity, EntityActions } from '@datorama/akita';
 import { ShipmentStore, ShipmentState, shipmentStore } from './shipment.store';
 import { Observable, Subject } from 'rxjs';
 import moment from 'moment';
-import { Shipment } from './shipment.model';
+import { createShipment, Shipment } from './shipment.model';
 import { Expression } from '../filter/filter.model';
 
 export class ShipmentQuery extends QueryEntity<ShipmentState> {
@@ -12,7 +12,7 @@ export class ShipmentQuery extends QueryEntity<ShipmentState> {
   }
 
   public get fetchShipments$(): Observable<ShipmentState> {
-    return this.store.selectEntityAction$;
+    return this.selectEntityAction(EntityActions.Add);
   }
 
   public getShipments(expressions: Expression[] = []): ShipmentState {
@@ -38,6 +38,22 @@ export class ShipmentQuery extends QueryEntity<ShipmentState> {
         })
       }
     })
+  }
+
+  public addShipment() {
+    const newShipment = createShipment({
+      id: guid(),
+      shipmentID: guid(),
+      clientName: 'Example Shipment',
+      origin: 'unknown',
+      destination: 'unknown',
+      mode: 'Rail',
+      estimatedDeparture: moment().format("DD-MM-YYYY"),
+      estimatedArrival: moment().format("DD-MM-YYYY"),
+      status: 'New'
+    });
+    
+    this.store.add(newShipment);
   }
 }
 

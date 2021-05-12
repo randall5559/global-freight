@@ -8,6 +8,10 @@ export const useStyles = makeStyles((theme: Theme) =>
         },
         table: {
             minWidth: 700,
+        },
+        formControl: {
+            margin: theme.spacing(1),
+            minWidth: 120,
         }
     })
 );

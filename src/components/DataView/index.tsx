@@ -14,30 +14,42 @@ import { useStyles } from './style';
 import { useDataFacade } from './hook';
 import { TablePaginationActions } from './sub-components/pagination';
 import { DataTable } from './sub-components/table';
+import { CreateShipmentModal } from './sub-components/modal';
   
 export const DataView = () => {
     const {
+        open,
+        mode,
         page,
+        openMenu,
         rowsPerPage,
         shipments,
         handleChangePage,
-        handleChangeRowsPerPage
+        handleChangeRowsPerPage,
+        handleChange,
+        handleClose,
+        handleOpen,
+        setEstimateDeparture,
+        setEstimateArrival,
+        handleMenuOpen,
+        handleMenuClose,
+        handleShipment
     } = useDataFacade();
     const classes = useStyles();
 
     return (
         <Box>
             <Box display="flex" justifyContent="space-evenly">
-                <IconButton>
+                <IconButton disabled>
                     <Home />
                 </IconButton>
-                <IconButton>
+                <IconButton disabled>
                     <Public />
                 </IconButton>
-                <IconButton>
+                <IconButton disabled>
                     <Event />
                 </IconButton>
-                <IconButton>
+                <IconButton onClick={() => handleOpen()}>
                     <AddBox />
                 </IconButton>
             </Box>
@@ -49,6 +61,20 @@ export const DataView = () => {
                 handleChangePage={handleChangePage} 
                 handleChangeRowsPerPage={handleChangeRowsPerPage} 
                 TablePaginationActions={TablePaginationActions}
+            />
+            <CreateShipmentModal 
+                classes={classes}
+                open={open} 
+                openMenu={openMenu}
+                handleMenuClose={handleMenuClose}
+                handleMenuOpen={handleMenuOpen}
+                mode={mode} 
+                handleChange={handleChange} 
+                handleClose={handleClose} 
+                handleOpen={handleOpen}
+                setEstimateDeparture={setEstimateDeparture}
+                setEstimateArrival={setEstimateArrival}
+                handleShipment={handleShipment}
             />
         </Box>
     );
