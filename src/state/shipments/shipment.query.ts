@@ -26,7 +26,7 @@ export class ShipmentQuery extends QueryEntity<ShipmentState> {
               return !(entity[expression.category as never] as string).toLowerCase().includes((expression.value as string).toLowerCase());
             case '==':
                 return entity[expression.category as never] === expression.value;
-            case '!==':
+            case '!=':
                 return entity[expression.category as never] !== expression.value;
             case 'after':
                 return moment(entity[expression.category as never]).isSameOrAfter(expression.value);
