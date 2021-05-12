@@ -1,9 +1,9 @@
 import { QueryEntity } from '@datorama/akita';
 import { ShipmentStore, ShipmentState, shipmentStore } from './shipment.store';
-import { Observable } from 'rxjs';
+import { Observable, Subject } from 'rxjs';
+import moment from 'moment';
 import { Shipment } from './shipment.model';
-
-type Filter = { key: never, value?: any };
+import { Expression } from '../filter/filter.model';
 
 export class ShipmentQuery extends QueryEntity<ShipmentState> {
 
@@ -11,19 +11,31 @@ export class ShipmentQuery extends QueryEntity<ShipmentState> {
     super(store);
   }
 
-  public selectFreight$(expr = '', { key, value }: Filter = { key: '' as never }): Observable<ShipmentState> {
-    return this.selectAll({
+  public get fetchShipments$(): Observable<ShipmentState> {
+    return this.store.selectEntityAction$;
+  }
+
+  public getShipments(expressions: Expression[] = []): ShipmentState {
+    return this.getAll({
       filterBy: (entity: Shipment) => {
-        switch (expr) {
-          case 'CONTAINS':
-            return (entity[key] as string).includes(value);
-          case 'EQUALS':
-            return entity[key] === value;
-          case 'NOT_EQUALS':
-              return entity[key] !== value;
-          default:
-            return true;
-        }
+        return expressions.every((expression: Expression) => {
+          switch (expression.operator) {
+            case 'contains':
+              return (entity[expression.category as never] as string).toLowerCase().includes((expression.value as string).toLowerCase());
+            case '!contains':
+              return !(entity[expression.category as never] as string).toLowerCase().includes((expression.value as string).toLowerCase());
+            case '==':
+                return entity[expression.category as never] === expression.value;
+            case '!==':
+                return entity[expression.category as never] !== expression.value;
+            case 'after':
+                return moment(entity[expression.category as never]).isSameOrAfter(expression.value);
+            case 'before':
+                return moment(entity[expression.category as never]).isSameOrBefore(expression.value);
+            case 'same':
+                return moment(entity[expression.category as never]).isSame(expression.value);
+          }
+        })
       }
     })
   }
