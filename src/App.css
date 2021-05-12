@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.day-picker-selection {
+  border: none;
+}
+
+.DayPicker-wrapper {
+  background-color: white !important;
+  border: white !important;
+  color: black !important;
+}
+
+.DayPicker-Day {
+  color: 'black' !important;
+  border: white !important;
+  margin: 0;
+  padding: 0;
+  font-size: 11px;
+}
+
+.react-datetime-picker {
+  background-color: white !important;
+  border: white !important;
+}

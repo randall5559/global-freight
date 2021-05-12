@@ -4,7 +4,7 @@
 		"clientName": "Broko",
 		"origin": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/19/19",
 		"estimatedArrival": "5/21/19",
 		"status": "Arrived"
@@ -14,7 +14,7 @@
 		"clientName": "Broko",
 		"origin": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/28/19",
 		"estimatedArrival": "4/21/19",
 		"status": "Arrived"
@@ -24,7 +24,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "2/10/19",
 		"estimatedArrival": "3/7/19",
 		"status": "TransportError"
@@ -34,7 +34,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/15/19",
 		"estimatedArrival": "4/16/19",
 		"status": "TransportError"
@@ -44,7 +44,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/24/19",
 		"estimatedArrival": "5/25/19",
 		"status": "In Transit"
@@ -54,7 +54,7 @@
 		"clientName": "Alarwi",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/24/19",
 		"estimatedArrival": "2/21/19",
 		"status": "Roll-Over"
@@ -64,7 +64,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/1/19",
 		"estimatedArrival": "4/1/19",
 		"status": "In Transit"
@@ -74,7 +74,7 @@
 		"clientName": "Broko",
 		"origin": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/25/19",
 		"estimatedArrival": "5/26/19",
 		"status": "Arrived"
@@ -84,7 +84,7 @@
 		"clientName": "Alarwi",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/21/19",
 		"estimatedArrival": "3/19/19",
 		"status": "In Transit"
@@ -94,7 +94,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "1/13/19",
 		"estimatedArrival": "2/7/19",
 		"status": "Cancelled"
@@ -104,7 +104,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "190 45 Stockholm-Arlanda, Sweden",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/22/19",
 		"estimatedArrival": "4/15/19",
 		"status": "Arrived"
@@ -114,7 +114,7 @@
 		"clientName": "Microsoft",
 		"origin": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
 		"destination": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/13/19",
 		"estimatedArrival": "5/7/19",
 		"status": "Arrived"
@@ -124,7 +124,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/11/19",
 		"estimatedArrival": "5/12/19",
 		"status": "Arrived"
@@ -134,7 +134,7 @@
 		"clientName": "Microsoft",
 		"origin": "1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "2/17/19",
 		"estimatedArrival": "3/18/19",
 		"status": "In Transit"
@@ -144,7 +144,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "201 Edgewater St, Staten Island, NY 10305",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/10/19",
 		"estimatedArrival": "3/6/19",
 		"status": "Arrived"
@@ -154,7 +154,7 @@
 		"clientName": "Tesla",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "4/21/19",
 		"estimatedArrival": "5/23/19",
 		"status": "Customs Hold"
@@ -164,7 +164,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "7-4 Deptford Rd, Singapore 759657",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/27/19",
 		"estimatedArrival": "5/27/19",
 		"status": "Arrived"
@@ -174,7 +174,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "Port of Los Angeles Los Angeles, CA",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/27/19",
 		"estimatedArrival": "3/25/19",
 		"status": "Arrived"
@@ -184,7 +184,7 @@
 		"clientName": "Microsoft",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/8/19",
 		"estimatedArrival": "3/9/19",
 		"status": "Arrived"
@@ -194,7 +194,7 @@
 		"clientName": "Microsoft",
 		"origin": "95700 Roissy-en-France, France",
 		"destination": "201 Edgewater St, Staten Island, NY 10305",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/26/19",
 		"estimatedArrival": "3/28/19",
 		"status": "TransportError"
@@ -204,7 +204,7 @@
 		"clientName": "Microsoft",
 		"origin": "190 45 Stockholm-Arlanda, Sweden",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "1/26/19",
 		"estimatedArrival": "2/16/19",
 		"status": "Roll-Over"
@@ -214,7 +214,7 @@
 		"clientName": "Alarwi",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/24/19",
 		"estimatedArrival": "5/16/19",
 		"status": "In Transit"
@@ -224,7 +224,7 @@
 		"clientName": "Alarwi",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "Edvard Munchs veg, 2061 Gardermoen, Norway",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "1/12/19",
 		"estimatedArrival": "2/12/19",
 		"status": "Roll-Over"
@@ -234,7 +234,7 @@
 		"clientName": "Microsoft",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/30/19",
 		"estimatedArrival": "4/30/19",
 		"status": "Arrived"
@@ -244,7 +244,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/24/19",
 		"estimatedArrival": "5/20/19",
 		"status": "In Transit"
@@ -254,7 +254,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/10/19",
 		"estimatedArrival": "5/1/19",
 		"status": "Arrived"
@@ -264,7 +264,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/21/19",
 		"estimatedArrival": "4/12/19",
 		"status": "Arrived"
@@ -274,7 +274,7 @@
 		"clientName": "Microsoft",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/8/19",
 		"estimatedArrival": "4/6/19",
 		"status": "TransportError"
@@ -284,7 +284,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/4/19",
 		"estimatedArrival": "4/25/19",
 		"status": "Customs Hold"
@@ -294,7 +294,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "7-4 Deptford Rd, Singapore 759657",
 		"destination": "Edvard Munchs veg, 2061 Gardermoen, Norway",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/18/19",
 		"estimatedArrival": "5/11/19",
 		"status": "Customs Hold"
@@ -304,7 +304,7 @@
 		"clientName": "Microsoft",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "1/28/19",
 		"estimatedArrival": "2/19/19",
 		"status": "Roll-Over"
@@ -314,7 +314,7 @@
 		"clientName": "Alarwi",
 		"origin": "95700 Roissy-en-France, France",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/12/19",
 		"estimatedArrival": "4/5/19",
 		"status": "Arrived"
@@ -324,7 +324,7 @@
 		"clientName": "Avalyn Pharma",
 		"origin": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/19/19",
 		"estimatedArrival": "2/9/19",
 		"status": "Roll-Over"
@@ -334,7 +334,7 @@
 		"clientName": "Tesla",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/21/19",
 		"estimatedArrival": "4/12/19",
 		"status": "Arrived"
@@ -344,7 +344,7 @@
 		"clientName": "Broko",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/14/19",
 		"estimatedArrival": "5/14/19",
 		"status": "Customs Hold"
@@ -354,7 +354,7 @@
 		"clientName": "Tesla",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/11/19",
 		"estimatedArrival": "4/9/19",
 		"status": "Arrived"
@@ -364,7 +364,7 @@
 		"clientName": "Tesla",
 		"origin": "7-4 Deptford Rd, Singapore 759657",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/30/19",
 		"estimatedArrival": "4/28/19",
 		"status": "TransportError"
@@ -374,7 +374,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/25/19",
 		"estimatedArrival": "4/21/19",
 		"status": "In Transit"
@@ -384,7 +384,7 @@
 		"clientName": "Alarwi",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "Hugo Eckener Ring 60549 Frankfurt",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/12/19",
 		"estimatedArrival": "5/8/19",
 		"status": "Customs Hold"
@@ -394,7 +394,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/19/19",
 		"estimatedArrival": "2/13/19",
 		"status": "Roll-Over"
@@ -404,7 +404,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/21/19",
 		"estimatedArrival": "3/15/19",
 		"status": "In Transit"
@@ -414,7 +414,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Port of Los Angeles Los Angeles, CA",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/16/19",
 		"estimatedArrival": "3/12/19",
 		"status": "In Transit"
@@ -424,7 +424,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/27/19",
 		"estimatedArrival": "3/30/19",
 		"status": "TransportError"
@@ -434,7 +434,7 @@
 		"clientName": "Tesla",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/28/19",
 		"estimatedArrival": "4/24/19",
 		"status": "TransportError"
@@ -444,7 +444,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/19/19",
 		"estimatedArrival": "3/13/19",
 		"status": "TransportError"
@@ -454,7 +454,7 @@
 		"clientName": "Broko",
 		"origin": "190 45 Stockholm-Arlanda, Sweden",
 		"destination": "1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/4/19",
 		"estimatedArrival": "3/26/19",
 		"status": "In Transit"
@@ -464,7 +464,7 @@
 		"clientName": "Tesla",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/11/19",
 		"estimatedArrival": "2/4/19",
 		"status": "Cancelled"
@@ -474,7 +474,7 @@
 		"clientName": "Broko",
 		"origin": "10000 W O'Hare Ave, Chicago, IL 60666",
 		"destination": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/30/19",
 		"estimatedArrival": "5/1/19",
 		"status": "In Transit"
@@ -484,7 +484,7 @@
 		"clientName": "Broko",
 		"origin": "201 Edgewater St, Staten Island, NY 10305",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "1/23/19",
 		"estimatedArrival": "2/14/19",
 		"status": "Roll-Over"
@@ -494,7 +494,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/24/19",
 		"estimatedArrival": "4/21/19",
 		"status": "Arrived"
@@ -504,7 +504,7 @@
 		"clientName": "Alarwi",
 		"origin": "95700 Roissy-en-France, France",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/27/19",
 		"estimatedArrival": "4/18/19",
 		"status": "In Transit"
@@ -514,7 +514,7 @@
 		"clientName": "Alarwi",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/18/19",
 		"estimatedArrival": "4/12/19",
 		"status": "In Transit"
@@ -524,7 +524,7 @@
 		"clientName": "Microsoft",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "201 Edgewater St, Staten Island, NY 10305",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/29/19",
 		"estimatedArrival": "2/28/19",
 		"status": "Cancelled"
@@ -534,7 +534,7 @@
 		"clientName": "Tesla",
 		"origin": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/20/19",
 		"estimatedArrival": "5/18/19",
 		"status": "Customs Hold"
@@ -544,7 +544,7 @@
 		"clientName": "Alarwi",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "1/18/19",
 		"estimatedArrival": "2/9/19",
 		"status": "Roll-Over"
@@ -554,7 +554,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/29/19",
 		"estimatedArrival": "4/28/19",
 		"status": "Customs Hold"
@@ -564,7 +564,7 @@
 		"clientName": "Broko",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/7/19",
 		"estimatedArrival": "2/5/19",
 		"status": "Cancelled"
@@ -574,7 +574,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/1/19",
 		"estimatedArrival": "4/1/19",
 		"status": "In Transit"
@@ -584,7 +584,7 @@
 		"clientName": "Microsoft",
 		"origin": "95700 Roissy-en-France, France",
 		"destination": "201 Edgewater St, Staten Island, NY 10305",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "2/1/19",
 		"estimatedArrival": "2/28/19",
 		"status": "Cancelled"
@@ -594,7 +594,7 @@
 		"clientName": "Microsoft",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/25/19",
 		"estimatedArrival": "5/23/19",
 		"status": "Customs Hold"
@@ -604,7 +604,7 @@
 		"clientName": "Tesla",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/1/19",
 		"estimatedArrival": "1/22/19",
 		"status": "Cancelled"
@@ -614,7 +614,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/2/19",
 		"estimatedArrival": "2/1/19",
 		"status": "Cancelled"
@@ -624,7 +624,7 @@
 		"clientName": "Alarwi",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/20/19",
 		"estimatedArrival": "2/19/19",
 		"status": "Roll-Over"
@@ -634,7 +634,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "1/6/19",
 		"estimatedArrival": "2/5/19",
 		"status": "Cancelled"
@@ -644,7 +644,7 @@
 		"clientName": "Alarwi",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/18/19",
 		"estimatedArrival": "2/18/19",
 		"status": "Roll-Over"
@@ -654,7 +654,7 @@
 		"clientName": "Alarwi",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "Hugo Eckener Ring 60549 Frankfurt",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/24/19",
 		"estimatedArrival": "3/22/19",
 		"status": "Customs Hold"
@@ -664,7 +664,7 @@
 		"clientName": "Broko",
 		"origin": "190 45 Stockholm-Arlanda, Sweden",
 		"destination": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "4/2/19",
 		"estimatedArrival": "4/25/19",
 		"status": "TransportError"
@@ -674,7 +674,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "7-4 Deptford Rd, Singapore 759657",
 		"destination": "201 Edgewater St, Staten Island, NY 10305",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/12/19",
 		"estimatedArrival": "5/12/19",
 		"status": "In Transit"
@@ -684,7 +684,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "Victoria Harbour 維多利亞港 Hong Kong",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/15/19",
 		"estimatedArrival": "3/17/19",
 		"status": "Customs Hold"
@@ -694,7 +694,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/29/19",
 		"estimatedArrival": "4/20/19",
 		"status": "In Transit"
@@ -704,7 +704,7 @@
 		"clientName": "Alarwi",
 		"origin": "201 Edgewater St, Staten Island, NY 10305",
 		"destination": "Edvard Munchs veg, 2061 Gardermoen, Norway",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "1/13/19",
 		"estimatedArrival": "2/7/19",
 		"status": "Cancelled"
@@ -714,7 +714,7 @@
 		"clientName": "Speedy Groceries",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/30/19",
 		"estimatedArrival": "2/26/19",
 		"status": "Roll-Over"
@@ -724,7 +724,7 @@
 		"clientName": "Alarwi",
 		"origin": "1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/19/19",
 		"estimatedArrival": "4/19/19",
 		"status": "Customs Hold"
@@ -734,7 +734,7 @@
 		"clientName": "Avalyn Pharma",
 		"origin": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/10/19",
 		"estimatedArrival": "3/6/19",
 		"status": "TransportError"
@@ -744,7 +744,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "6000 N Terminal Pkwy, Atlanta, GA 30320",
 		"destination": "201 Edgewater St, Staten Island, NY 10305",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/12/19",
 		"estimatedArrival": "2/2/19",
 		"status": "Cancelled"
@@ -754,7 +754,7 @@
 		"clientName": "Microsoft",
 		"origin": "95700 Roissy-en-France, France",
 		"destination": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/2/19",
 		"estimatedArrival": "4/2/19",
 		"status": "In Transit"
@@ -764,7 +764,7 @@
 		"clientName": "Microsoft",
 		"origin": "Port of Los Angeles Los Angeles, CA",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "4/19/19",
 		"estimatedArrival": "5/13/19",
 		"status": "Customs Hold"
@@ -774,7 +774,7 @@
 		"clientName": "Broko",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/20/19",
 		"estimatedArrival": "4/12/19",
 		"status": "In Transit"
@@ -784,7 +784,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "201 Edgewater St, Staten Island, NY 10305",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "1/30/19",
 		"estimatedArrival": "2/26/19",
 		"status": "Cancelled"
@@ -794,7 +794,7 @@
 		"clientName": "Alarwi",
 		"origin": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
 		"destination": "190 45 Stockholm-Arlanda, Sweden",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/26/19",
 		"estimatedArrival": "4/19/19",
 		"status": "Arrived"
@@ -804,7 +804,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "10000 W O'Hare Ave, Chicago, IL 60666",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/22/19",
 		"estimatedArrival": "2/17/19",
 		"status": "Roll-Over"
@@ -814,7 +814,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "Port of Los Angeles Los Angeles, CA",
 		"destination": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/22/19",
 		"estimatedArrival": "2/19/19",
 		"status": "Roll-Over"
@@ -824,7 +824,7 @@
 		"clientName": "Microsoft",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "Hugo Eckener Ring 60549 Frankfurt",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/7/19",
 		"estimatedArrival": "2/7/19",
 		"status": "Cancelled"
@@ -834,7 +834,7 @@
 		"clientName": "Avalyn Pharma",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/9/19",
 		"estimatedArrival": "5/11/19",
 		"status": "Customs Hold"
@@ -844,7 +844,7 @@
 		"clientName": "Dendreon Pharmaceutical LLC",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/29/19",
 		"estimatedArrival": "2/26/19",
 		"status": "Cancelled"
@@ -854,7 +854,7 @@
 		"clientName": "Alarwi",
 		"origin": "Edvard Munchs veg, 2061 Gardermoen, Norway",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "1/11/19",
 		"estimatedArrival": "2/5/19",
 		"status": "Cancelled"
@@ -864,7 +864,7 @@
 		"clientName": "Avalyn Pharma",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "3/23/19",
 		"estimatedArrival": "4/24/19",
 		"status": "TransportError"
@@ -874,7 +874,7 @@
 		"clientName": "Broko",
 		"origin": "10000 W O'Hare Ave, Chicago, IL 60666",
 		"destination": "7-4 Deptford Rd, Singapore 759657",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/16/19",
 		"estimatedArrival": "5/7/19",
 		"status": "In Transit"
@@ -884,7 +884,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "4/28/19",
 		"estimatedArrival": "5/19/19",
 		"status": "TransportError"
@@ -894,7 +894,7 @@
 		"clientName": "Broko",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "95700 Roissy-en-France, France",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "4/13/19",
 		"estimatedArrival": "5/10/19",
 		"status": "In Transit"
@@ -904,7 +904,7 @@
 		"clientName": "Broko",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/24/19",
 		"estimatedArrival": "3/18/19",
 		"status": "In Transit"
@@ -914,7 +914,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
 		"destination": "New Udaan Bhawan, New Delhi 110037, INDIA",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "1/12/19",
 		"estimatedArrival": "2/6/19",
 		"status": "Cancelled"
@@ -924,7 +924,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/20/19",
 		"estimatedArrival": "3/24/19",
 		"status": "In Transit"
@@ -934,7 +934,7 @@
 		"clientName": "Broko",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "Victoria Harbour 維多利亞港 Hong Kong",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/25/19",
 		"estimatedArrival": "4/23/19",
 		"status": "In Transit"
@@ -944,7 +944,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "482 Pier T Ave, Long Beach, CA 90802",
 		"destination": "Helsinki Airport, Lentäjäntie 3, 01530 Vantaa, FINLAND",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "4/9/19",
 		"estimatedArrival": "5/5/19",
 		"status": "In Transit"
@@ -954,7 +954,7 @@
 		"clientName": "Sapphire Running",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "Port of Los Angeles Los Angeles, CA",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "2/3/19",
 		"estimatedArrival": "3/3/19",
 		"status": "Customs Hold"
@@ -964,7 +964,7 @@
 		"clientName": "REI Seattle Flagship Store",
 		"origin": "Hugo Eckener Ring 60549 Frankfurt",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "3/26/19",
 		"estimatedArrival": "4/21/19",
 		"status": "Customs Hold"
@@ -974,7 +974,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "Keflavíkurflugvöllur, 235 Keflavík, Iceland",
 		"destination": "482 Pier T Ave, Long Beach, CA 90802",
-		"mode": "Rail ",
+		"mode": "Rail",
 		"estimatedDeparture": "2/21/19",
 		"estimatedArrival": "3/15/19",
 		"status": "Customs Hold"
@@ -984,7 +984,7 @@
 		"clientName": "The Pike Brewing Company",
 		"origin": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
 		"destination": "6000 N Terminal Pkwy, Atlanta, GA 30320",
-		"mode": "Sea ",
+		"mode": "Sea",
 		"estimatedDeparture": "4/15/19",
 		"estimatedArrival": "5/14/19",
 		"status": "Customs Hold"
@@ -994,7 +994,7 @@
 		"clientName": "Microsoft",
 		"origin": "New Udaan Bhawan, New Delhi 110037, INDIA",
 		"destination": "Hugo Eckener Ring 60549 Frankfurt",
-		"mode": "Air ",
+		"mode": "Air",
 		"estimatedDeparture": "3/5/19",
 		"estimatedArrival": "4/3/19",
 		"status": "Customs Hold"
